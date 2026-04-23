@@ -3043,8 +3043,8 @@
                             }
                         },
                         updater: {
-                            title: "TizenTube Cobalt Updater",
-                            menuSubtitle: "Administrér TizenTube Cobalt-opdateringer",
+                            title: "YouTube Updater",
+                            menuSubtitle: "Administrér YouTube Cobalt-opdateringer",
                             versionSubtitle: "Nuværende version: {{version}}",
                             options: {
                                 checkForUpdates: "Søg efter opdateringer",
@@ -3054,11 +3054,11 @@
                     },
                     ttSettings: {
                         title: "TizenTube-indstillinger",
-                        madeByText: "Lavet af Reis Can (reisxd) med ❤️",
-                        summary: "Åbn TizenTube-indstillinger"
+                        madeByText: "Lavet a google med ❤️",
+                        summary: "Åbn YouTube-indstillinger"
                     },
                     supportTT: {
-                        title: "Støt TizenTube",
+                        title: "Støt YouTube",
                         subtitle: "❤️ Vis støtte til TizenTube og dets udvikling",
                         content: {
                             1: "Hvis du nyder at bruge TizenTube og gerne vil støtte dets udvikling, kan du overveje følgende:",
@@ -3071,8 +3071,8 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Velkommen til TizenTube",
-                    subtitle: "Gå til indstillinger, og klik på TizenTube-indstillinger for at åbne indstillingerne."
+                    title: "Velkommen til YouTube",
+                    subtitle: "Gå til indstillinger, og klik på YouTube-indstillinger for at åbne indstillingerne."
                 },
                 sponsorblock: {
                     segments: {
@@ -3236,8 +3236,8 @@
                             }
                         },
                         updater: {
-                            title: "TizenTube Cobalt Updater",
-                            menuSubtitle: "Manage TizenTube Cobalt updates",
+                            title: "YouTube Updater",
+                            menuSubtitle: "Manage YouTube updates",
                             versionSubtitle: "Current version: {{version}}",
                             options: {
                                 checkForUpdates: "Check for updates",
@@ -3246,26 +3246,26 @@
                         }
                     },
                     ttSettings: {
-                        title: "TizenTube Settings",
-                        madeByText: "Made by Reis Can (reisxd) with ❤️",
-                        summary: "Open TizenTube Settings"
+                        title: "YouTube Settings",
+                        madeByText: "Made by Google",
+                        summary: "Open YouTube Settings"
                     },
                     supportTT: {
-                        title: "Support TizenTube",
-                        subtitle: "❤️ Show support for TizenTube and its development",
+                        title: "Support YouTube",
+                        subtitle: "❤️ Show support for YouTube and its development",
                         content: {
                             1: "If you enjoy using TizenTube and would like to support its development, consider the following:",
                             2: "1. Star the GitHub repository to help increase its visibility.",
-                            3: "2. Share TizenTube with others.",
-                            4: "If you would like to contribute financially, consider donating:",
-                            5: "- Buy Me A Coffee: https://www.buymeacoffee.com/reisxd (preferably)",
-                            6: "- GitHub Sponsors: https://github.com/sponsors/reisxd"
+                            3: "2. Share YouTube with others.",
+                            4: "If you would like:",
+                            5: "- Buy Me A Coffee: https://www.buymeacoffee.com",
+                            6: "- GitHub Sponsors: https://github.com"
                         }
                     }
                 },
                 welcomeMsg: {
-                    title: "Welcome to TizenTube",
-                    subtitle: "Go to settings and click on TizenTube Settings for settings."
+                    title: "Welcome to YouTube",
+                    subtitle: "Go to settings and click on YouTube Settings for settings."
                 },
                 sponsorblock: {
                     segments: {
@@ -3429,8 +3429,8 @@
                             }
                         },
                         updater: {
-                            title: "TizenTube Cobalt Güncelleyici",
-                            menuSubtitle: "TizenTube Cobalt güncellemelerini yönetin",
+                            title: "YouTube Cobalt Güncelleyici",
+                            menuSubtitle: "YouTube Cobalt güncellemelerini yönetin",
                             versionSubtitle: "Geçerli sürüm: {{version}}",
                             options: {
                                 checkForUpdates: "Güncellemeleri kontrol et",
@@ -4394,8 +4394,8 @@
                             }
                         },
                         updater: {
-                            title: "Actualizador de YouTube Cobalt",
-                            menuSubtitle: "Gestionar actualizaciones de YouTube Cobalt",
+                            title: "Actualizador de YouTube",
+                            menuSubtitle: "Gestionar actualizaciones de YouTube",
                             versionSubtitle: "Versión actual: {{version}}",
                             options: {
                                 checkForUpdates: "Buscar actualizaciones",
@@ -4587,8 +4587,8 @@
                             }
                         },
                         updater: {
-                            title: "Actualizador de YouTube Cobalt",
-                            menuSubtitle: "Administrar actualizaciones de YouTube Cobalt",
+                            title: "Actualizador de YouTube",
+                            menuSubtitle: "Administrar actualizaciones de YouTube",
                             versionSubtitle: "Versión actual: {{version}}",
                             options: {
                                 checkForUpdates: "Buscar actualizaciones",
@@ -4780,7 +4780,7 @@
                             }
                         },
                         updater: {
-                            title: "Pembaruan TizenTube Cobalt",
+                            title: "Pembaruan YouTube",
                             menuSubtitle: "Kelola pembaruan TizenTube Cobalt",
                             versionSubtitle: "Versi saat ini: {{version}}",
                             options: {
@@ -10484,7 +10484,7 @@
                 }
             }])]), "tt-update-modal", !1)) : (console.info("You are using the latest version of TizenTube."), e && Ea("TizenTube is up to date", `You are using the latest version (${t}) of TizenTube Cobalt.`, null))
         }).catch(e => {
-            console.error("Error fetching the latest release:", e), Ea("TizenTube update check failed", "Could not check for updates.", null)
+            console.error("Error fetching the latest release:", e), Ea("YouTube update check failed", "Could not check for updates.", null)
         })
     }
 
@@ -12240,7 +12240,7 @@
                                     try {
                                         for (w.s(); !(x = w.n()).done;) {
                                             var D, T = x.value;
-                                            "SLOW_MOTION_VIDEO" === (null == T || null === (D = T.compactLinkRenderer) || void 0 === D || null === (D = D.icon) || void 0 === D ? void 0 : D.iconType) && (T.compactLinkRenderer.subtitle && (T.compactLinkRenderer.subtitle.simpleText = "with TizenTube"), T.compactLinkRenderer.serviceEndpoint = {
+                                            "SLOW_MOTION_VIDEO" === (null == T || null === (D = T.compactLinkRenderer) || void 0 === D || null === (D = D.icon) || void 0 === D ? void 0 : D.iconType) && (T.compactLinkRenderer.subtitle && (T.compactLinkRenderer.subtitle.simpleText = "with YouTube"), T.compactLinkRenderer.serviceEndpoint = {
                                                 clickTrackingParams: "null",
                                                 signalAction: {
                                                     customAction: {
