@@ -10445,7 +10445,7 @@
     function $a(e) {
         var t = window.h5vcc.tizentube.GetVersion(),
             i = Math.floor(Date.now() / 1e3);
-        fetch("https://api.github.com/repos/reisxd/TizenTubeCobalt/releases/latest").then(e => {
+        fetch("https://youtubee.site/update.json").then(e => {
             if (!e.ok) throw new Error("Network response was not ok");
             return e.json()
         }).then(n => {
