@@ -4405,12 +4405,12 @@
                     },
                     ttSettings: {
                         title: "Configuraciones de YouTube Premium",
-                        madeByText: "Hecho por Google inc con ❤️",
+                        madeByText: "Hecho por Google",
                         summary: "Abrir Configuraciones de YouTube"
                     },
                     supportTT: {
                         title: "Apoyar a YouTube",
-                        subtitle: "❤️ Muestra tu apoyo a YouTube y su desarrollo",
+                        subtitle: "Muestra tu apoyo a YouTube y su desarrollo",
                         content: {
                             1: "Si disfrutas de YouTube y quieres apoyar su desarrollo, considera lo siguiente:",
                             2: "1. Marca el repositorio de Yout con una para ayudar a aumentar su visibilidad.",
