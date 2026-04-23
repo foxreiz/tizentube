@@ -4598,12 +4598,12 @@
                     },
                     ttSettings: {
                         title: "Configuración de YouTube",
-                        madeByText: "Hecho por google inc  con ❤️",
+                        madeByText: "Hecho por google",
                         summary: "Abrir configuración de YouTube"
                     },
                     supportTT: {
                         title: "Apoya a YouTube",
-                        subtitle: "❤️ Muestra tu apoyo a YouTube y su desarrollo",
+                        subtitle: "Muestra tu apoyo a YouTube y su desarrollo",
                         content: {
                             1: "Si disfrutas usar YouTube y te gustaría apoyar su desarrollo, considera lo siguiente:",
                             2: "1. Dale una estrella al repositorio de para ayudar a aumentar su visibilidad.",
