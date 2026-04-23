@@ -7456,7 +7456,7 @@
             enableWhosWatchingMenuOnAppExit: !1,
             enableShowUserLanguage: !0,
             enableShowOtherLanguages: !1,
-            showWelcomeToast: !0,
+            showWelcomeToast: !1,
             enablePreviousNextButtons: !0,
             enableSuperThanksButton: !1,
             enableSpeedControlsButton: !0,
