@@ -16358,5 +16358,3 @@
             })
         }()
 }();
-
-// Update forcing cache reset v1.0.4
