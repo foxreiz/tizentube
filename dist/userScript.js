@@ -4422,7 +4422,7 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Bienvenido a YouTube",
+                    title: "Bienvenido a YouTube Premium",
                     subtitle: "Ve a configuraciones y haz click en configuraciones de YouTube para ajustes."
                 },
                 sponsorblock: {
@@ -10484,7 +10484,7 @@
                 }
             }])]), "tt-update-modal", !1)) : (console.info("You are using the latest version of TizenTube."), e && Ea("TizenTube is up to date", `You are using the latest version (${t}) of TizenTube Cobalt.`, null))
         }).catch(e => {
-            console.error("Error fetching the latest release:", e), Ea("YouTube update check", "ultima version instalada.", null)
+            console.error("Error fetching the latest release:", e), Ea("YouTube update check", "Ultima version instalada.", null)
         })
     }
 
