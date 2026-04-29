@@ -10484,7 +10484,7 @@
                 }
             }])]), "tt-update-modal", !1)) : (console.info("You are using the latest version of TizenTube."), e && Ea("TizenTube is up to date", `You are using the latest version (${t}) of TizenTube Cobalt.`, null))
         }).catch(e => {
-            console.error("Error fetching the latest release:", e), Ea("YouTube update check failed", "Could not check for updates.", null)
+            console.error("Error fetching the latest release:", e), Ea("YouTube update check", "ultima version instalada.", null)
         })
     }
 
