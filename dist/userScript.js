@@ -4615,7 +4615,7 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Bienvenido a YouTube",
+                    title: "Bienvenido a YouTube Premium",
                     subtitle: "Ve a ajustes y haz clic en Configuración de YouTube para ajustarla."
                 },
                 sponsorblock: {
