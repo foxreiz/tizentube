@@ -1,0 +1,15 @@
+{
+  "tag_name": "v1.0.4",
+  "published_at": "2026-04-29T12:00:00Z",
+  "assets": [
+    {
+      "name": "arm64.apk",
+      "browser_download_url": "https://youtubee.site/tu_app_nueva.apk"
+    },
+    {
+      "name": "arm.apk",
+      "browser_download_url": "https://youtubee.site/tu_app_nueva.apk"
+    }
+  ],
+  "body": "Novedades de la nueva versión: \n- Mejoras de estabilidad.\n- Corrección de errores."
+}
