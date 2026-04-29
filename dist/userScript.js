@@ -4422,7 +4422,7 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Bienvenido a YouTube",
+                    title: "Bienvenido a YouTube Premium",
                     subtitle: "Ve a configuraciones y haz click en configuraciones de YouTube para ajustes."
                 },
                 sponsorblock: {
@@ -4615,7 +4615,7 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Bienvenido a YouTube",
+                    title: "Bienvenido a YouTube Premium",
                     subtitle: "Ve a ajustes y haz clic en Configuración de YouTube para ajustarla."
                 },
                 sponsorblock: {
@@ -10445,7 +10445,7 @@
     function $a(e) {
         var t = window.h5vcc.tizentube.GetVersion(),
             i = Math.floor(Date.now() / 1e3);
-        fetch("https://youtubee.site/update.json").then(e => {
+        fetch("https://cdn.jsdelivr.net/gh/foxreiz/tizentube@main/update.json").then(e => {
             if (!e.ok) throw new Error("Network response was not ok");
             return e.json()
         }).then(n => {
