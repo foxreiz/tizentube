@@ -3053,20 +3053,20 @@
                         }
                     },
                     ttSettings: {
-                        title: "TizenTube-indstillinger",
+                        title: "YouTube-indstillinger",
                         madeByText: "Lavet a google med ❤️",
                         summary: "Åbn YouTube-indstillinger"
                     },
                     supportTT: {
                         title: "Støt YouTube",
-                        subtitle: "❤️ Vis støtte til TizenTube og dets udvikling",
+                        subtitle: "❤️ Vis støtte til YouTube og dets udvikling",
                         content: {
-                            1: "Hvis du nyder at bruge TizenTube og gerne vil støtte dets udvikling, kan du overveje følgende:",
+                            1: "Hvis du nyder at bruge YouTube og gerne vil støtte dets udvikling, kan du overveje følgende:",
                             2: "1. Giv GitHub-repositoriet en stjerne for at hjælpe med at øge dets synlighed.",
-                            3: "2. Del TizenTube med andre.",
+                            3: "2. Del YouTube med andre.",
                             4: "Hvis du gerne vil bidrage økonomisk, kan du overveje at donere:",
-                            5: "- Buy Me A Coffee: https://www.buymeacoffee.com/reisxd (helst)",
-                            6: "- GitHub Sponsors: https://github.com/sponsors/reisxd"
+                            5: "- Buy Me A Coffee: https://www.buymeacoffee.com/ (helst)",
+                            6: "- GitHub Sponsors: https://github.com/sponsors/"
                         }
                     }
                 },
